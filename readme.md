@@ -47,11 +47,11 @@ All assets are included locally for fast loading and offline development.
 
 ## 🖼️ Snapshots
 
+![Demo Screenshot](<demo_image.png>)
+<br>
 ![Landing Page Screenshot 1](image.png)
 <br>
-<br>
 ![Landing Page Screenshot 2](image-1.png)
-<br>
 <br>
 ![Landing Page Screenshot 3](image-2.png)
 
