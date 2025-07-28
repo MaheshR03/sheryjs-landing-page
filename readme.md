@@ -7,7 +7,7 @@ Welcome to the SheryJS Landing Page! This is a visually stunning, interactive la
 
 ## 🌐 Live Demo
 
-👉 [View Deployed Site](https://maheshr03.github.io/sheryjs-landing-page/)
+👉 [Try it yourself](https://maheshr03.github.io/sheryjs-landing-page/)
 
 ---
 
@@ -48,7 +48,9 @@ All assets are included locally for fast loading and offline development.
 ## 🖼️ Snapshots
 
 ![Landing Page Screenshot 1](image.png)
+<br>
 ![Landing Page Screenshot 2](image-1.png)
+<br>
 ![Landing Page Screenshot 3](image-2.png)
 
 ---
